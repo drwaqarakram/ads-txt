@@ -1,7 +1,7 @@
 === Ads.txt Manager ===
-Contributors: 10up, helen, adamsilverstein, jakemgold
-Author URI: http://10up.com
-Plugin URI: https://github.com/10up/ads-txt
+Contributors: adenergizer
+Author URI: http://adenergizer.com
+Plugin URI: https://github.com/mwaqarakram94/ads-txt
 Tags: ads.txt, ads, ad manager, advertising, publishing, publishers
 Requires at least: 4.9
 Tested up to: 4.9.1
